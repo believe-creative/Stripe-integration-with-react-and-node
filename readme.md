@@ -1,6 +1,6 @@
 # An integration of stripe with react.js and node.js
 
-[![N|Solid](https://www.believecreative.com/wp-content/uploads/2014/01/logo.png   )](https://www.believecreative.com/)
+[![N|Solid](https://www.believecreative.com/bc-logo.png )](https://www.believecreative.com/)
 
 
 First, the most obvious one. Create stripe account. visit https://stripe.com.
