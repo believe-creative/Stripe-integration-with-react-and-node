@@ -1,6 +1,6 @@
 # An integration of stripe with react.js and node.js
 
-[![N|Solid](https://www.believecreative.com/bc-logo.png )](https://www.believecreative.com/)
+<a href="https://www.believecreative.com/" target="_blank"><img src="https://www.believecreative.com/bc-logo.png" title="Believe creative" alt="Believe creative"></a>
 
 
 First, the most obvious one. Create stripe account. visit https://stripe.com.
