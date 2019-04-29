@@ -216,7 +216,7 @@ class CheckoutForm extends React.Component {
             .post(
             "http://localhost:5000/api/payment",
               {
-                email: jonnybravo@gmail.com,
+                email: "jonnybravo@gmail.com",
                 id: token.id,
                 amount:500
               }
