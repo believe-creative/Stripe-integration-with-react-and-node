@@ -104,11 +104,22 @@ thus concludes server side part.
 
 Here we use the react-stripe-elements libary to add all the required stripe components.
 
+I recommend to use  https://github.com/facebook/create-react-app   to create a react.js client side app.
+run the following commands 
+```sh
+npx create-react-app client
+cd client
+```
+and replace the package.json with the following one.
+
+
+  Or   
+  
 create client folder in the project root and run npm init command again here. this will create package.json file for client side.Add the following to package.json file
 
 ```json
 {
-  "name": "react-shop",
+  "name": "react-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -158,7 +169,7 @@ create an index.html file and add the following
 Then create the following js files 
 
 ```js
-// index.js
+// app.js
 import React from 'react';
 import {render} from 'react-dom';
 import {StripeProvider} from 'react-stripe-elements';
